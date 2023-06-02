@@ -1,5 +1,5 @@
 # Send Button Transforms Into Birds
-This is a simple and fun project that demonstrates how to create an interactive send button that transforms into flying birds using HTML, CSS, and JavaScript.
+This is a simple and fun project that demonstrates how to create an interactive send button that transforms into flying birds using HTML, CSS, and JavaScript .
 
 ## Technologies Used
 - HTML
